@@ -14,7 +14,8 @@ namespace Beginner_Course
         {
             //IOTest.Run();
             //BasicDataStructures.Run();
-            StringManipulation.Run();
+            //StringManipulation.Run();
+            NumberManipulation.Run();
         }
     }
 }
