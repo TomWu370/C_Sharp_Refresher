@@ -1,4 +1,5 @@
 ﻿using Beginner_Course.source;
+using Beginner_Course.Source;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,7 +13,8 @@ namespace Beginner_Course
         static void Main(string[] args)
         {
             //IOTest.Run();
-            BasicDataStructures.Run();
+            //BasicDataStructures.Run();
+            StringManipulation.Run();
         }
     }
 }
