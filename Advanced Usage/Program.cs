@@ -10,6 +10,7 @@ namespace Advanced_Usage
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
         }
     }
 }
