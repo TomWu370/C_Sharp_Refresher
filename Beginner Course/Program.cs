@@ -11,7 +11,8 @@ namespace Beginner_Course
     {
         static void Main(string[] args)
         {
-            IOTest.Run();
+            //IOTest.Run();
+            BasicDataStructures.Run();
         }
     }
 }
