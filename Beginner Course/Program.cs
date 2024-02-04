@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Beginner_Course.source;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace Beginner_Course
     {
         static void Main(string[] args)
         {
+            IOTest.Run();
         }
     }
 }
