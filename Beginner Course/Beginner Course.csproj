@@ -47,8 +47,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="source\BasicDataStructures.cs" />
-    <Compile Include="source\IOTest.cs" />
+    <Compile Include="Source\BasicDataStructures.cs" />
+    <Compile Include="Source\IOTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
