@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced Usage", "Advanced 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example Projects", "Example Projects\Example Projects.csproj", "{6F4220D1-2E11-4150-8131-1FC2BCC5B7BB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{F8AA32A0-D273-4ACC-AB6C-BDE7802EA38A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{F8AA32A0-D273-4ACC-AB6C-BDE7802EA38A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
