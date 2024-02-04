@@ -16,6 +16,7 @@ namespace Beginner_Course
             //BasicDataStructures.Run();
             //StringManipulation.Run();
             //NumberManipulation.Run();
+            ArrayManipulation.Run();
         }
     }
 }
