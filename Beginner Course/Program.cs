@@ -16,7 +16,11 @@ namespace Beginner_Course
             //BasicDataStructures.Run();
             //StringManipulation.Run();
             //NumberManipulation.Run();
-            ArrayManipulation.Run();
+            //ArrayManipulation.Run();
+            //MethodTest.Run();
+            //IfAndLoops.Run();
+            //SwitchEnum.Run();
+            SimpleOOP.Run();
         }
     }
 }

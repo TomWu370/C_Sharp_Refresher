@@ -49,11 +49,15 @@
   <ItemGroup>
     <Compile Include="Source\ArrayManipulation.cs" />
     <Compile Include="Source\BasicDataStructures.cs" />
+    <Compile Include="Source\IfAndLoops.cs" />
     <Compile Include="Source\IOTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Source\MethodTest.cs" />
     <Compile Include="Source\NumberManipulation.cs" />
+    <Compile Include="Source\SimpleOOP.cs" />
     <Compile Include="Source\StringManipulation.cs" />
+    <Compile Include="Source\SwitchEnum.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
